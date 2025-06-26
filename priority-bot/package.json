@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "<!-- ![Total Downloads](https://img.shields.io/github/downloads/i6h/priority-bot/total?logo=github) ![Latest Downloads](https://img.shields.io/github/downloads/i6h/priority-bot/latest/total?logo=github) ![Contributors](https://img.shields.io/github/contributors/i6h/priority-bot?logo=github) ![Latest Release](https://img.shields.io/github/v/release/i6h/priority-bot?logo=github) -->",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^1.11.2",
+    "@discordjs/rest": "^2.5.1",
+    "discord-api-types": "^0.38.13",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "node-cron": "^3.0.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
